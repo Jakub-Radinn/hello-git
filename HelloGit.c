@@ -1,4 +1,4 @@
-Version 5 - some weird changes
+Changes done on branch 1
 
 
 	pc.printf("\n----SPI Message received!----\n");
