@@ -1,4 +1,4 @@
-Changes done on branch master
+Merged branches v1 and v2
 
 
 	pc.printf("\n----SPI Message received!----\n");
